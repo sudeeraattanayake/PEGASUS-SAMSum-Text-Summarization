@@ -873,7 +873,7 @@ This project was developed for educational and portfolio purposes.
 │  Task          → Abstractive Summarization  │
 │  Framework     → PyTorch                    │
 │  NLP Library   → Hugging Face Transformers  │
-│  Evaluation    → ROUGE                     │
+│  Evaluation    → ROUGE                      │
 │  Environment   → Google Colab / Python      │
 │                                             │
 └─────────────────────────────────────────────┘
