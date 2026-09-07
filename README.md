@@ -452,11 +452,10 @@ Example format:
 
 | Metric  |     Score |
 | ------- | --------: |
-| ROUGE-1 | **XX.XX** |
-| ROUGE-2 | **XX.XX** |
-| ROUGE-L | **XX.XX** |
+| ROUGE-1 | **0.020023** |
+| ROUGE-2 | **0.000000** |
+| ROUGE-L | **0.019792** |
 
-> **Important:** Replace `XX.XX` with the actual evaluation scores produced by your notebook. Do not use example values as your final results.
 
 ### Example Result Interpretation
 
