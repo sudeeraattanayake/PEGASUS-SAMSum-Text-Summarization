@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+evaluate
+rouge_score
+sacrebleu
+py7zr
+accelerate
+nltk
+pandas
+matplotlib
