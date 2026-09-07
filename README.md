@@ -134,13 +134,6 @@ text-summarization-pegasus/
 ├── notebooks/
 │   └── PEGASUS_Text_Summarization.ipynb
 │
-├── models/
-│   └── trained_model/
-│
-├── results/
-│   ├── evaluation_results.txt
-│   └── sample_predictions.txt
-│
 ├── requirements.txt
 │
 └── .gitignore
